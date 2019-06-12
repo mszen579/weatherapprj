@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weatherapprj/static/css/main.ef1cb80f.chunk.css",
+    "main.css": "/weatherapprj/static/css/main.49cf4bc9.chunk.css",
     "main.js": "/weatherapprj/static/js/main.5456e829.chunk.js",
     "main.js.map": "/weatherapprj/static/js/main.5456e829.chunk.js.map",
     "runtime~main.js": "/weatherapprj/static/js/runtime~main.004f8f11.js",
@@ -8,8 +8,8 @@
     "static/js/2.b0d4d72d.chunk.js": "/weatherapprj/static/js/2.b0d4d72d.chunk.js",
     "static/js/2.b0d4d72d.chunk.js.map": "/weatherapprj/static/js/2.b0d4d72d.chunk.js.map",
     "index.html": "/weatherapprj/index.html",
-    "precache-manifest.fc8b384f2ed5466dd4e1e558d89b4364.js": "/weatherapprj/precache-manifest.fc8b384f2ed5466dd4e1e558d89b4364.js",
+    "precache-manifest.8a7ac899b232ceb08fee028bea784a18.js": "/weatherapprj/precache-manifest.8a7ac899b232ceb08fee028bea784a18.js",
     "service-worker.js": "/weatherapprj/service-worker.js",
-    "static/css/main.ef1cb80f.chunk.css.map": "/weatherapprj/static/css/main.ef1cb80f.chunk.css.map"
+    "static/css/main.49cf4bc9.chunk.css.map": "/weatherapprj/static/css/main.49cf4bc9.chunk.css.map"
   }
 }
