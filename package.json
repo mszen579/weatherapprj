@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://mszsen579.github.io/weatherapprj",
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
